@@ -1,0 +1,327 @@
+2026-01-17T10:24:43.429Z - Sync Request: {"clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","email":"stiphen113@gmail.com","firstName":"stiphen","lastName":null}
+2026-01-17T10:24:43.778Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-17T10:24:43.780Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-17T10:41:53.275Z - Sync Request: {"clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","email":"stiphen113@gmail.com","firstName":"stiphen","lastName":null}
+2026-01-17T10:41:53.277Z - Sync Request: {"clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","email":"stiphen113@gmail.com","firstName":"stiphen","lastName":null}
+2026-01-17T10:41:53.578Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-17T10:41:53.578Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-17T10:41:53.579Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-17T10:41:53.579Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-17T10:43:27.449Z - Sync Request: {"clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","email":"stiphen113@gmail.com","firstName":"stiphen","lastName":null}
+2026-01-17T10:43:27.452Z - Sync Request: {"clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","email":"stiphen113@gmail.com","firstName":"stiphen","lastName":null}
+2026-01-17T10:43:27.819Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-17T10:43:27.820Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-17T10:43:27.821Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-17T10:43:27.822Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-17T10:48:12.831Z - Sync Request: {"clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","email":"stiphen113@gmail.com","firstName":"stiphen","lastName":null}
+2026-01-17T10:48:12.837Z - Sync Request: {"clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","email":"stiphen113@gmail.com","firstName":"stiphen","lastName":null}
+2026-01-17T10:48:13.086Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-17T10:48:13.088Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-17T10:48:13.093Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-17T10:48:13.093Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-17T10:48:48.570Z - Sync Request: {"clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","email":"stiphen113@gmail.com","firstName":"stiphen","lastName":null}
+2026-01-17T10:48:49.217Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-17T10:48:49.218Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-17T12:12:25.880Z - Sync Request: {"clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","email":"stiphen113@gmail.com","firstName":"stiphen","lastName":null}
+2026-01-17T12:12:25.881Z - Sync Request: {"clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","email":"stiphen113@gmail.com","firstName":"stiphen","lastName":null}
+2026-01-17T12:12:26.167Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-17T12:12:26.168Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-17T12:12:26.170Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-17T12:12:26.170Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-17T12:16:57.420Z - Sync Request: {"clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","email":"stiphen113@gmail.com","firstName":"stiphen","lastName":null}
+2026-01-17T12:16:57.426Z - Sync Request: {"clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","email":"stiphen113@gmail.com","firstName":"stiphen","lastName":null}
+2026-01-17T12:17:06.156Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-17T12:17:06.157Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-17T12:17:06.157Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-17T12:17:06.158Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-17T12:17:07.365Z - Sync Request: {"clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","email":"stiphen113@gmail.com","firstName":"stiphen","lastName":null}
+2026-01-17T12:17:07.707Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-17T12:17:07.708Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-17T12:19:51.458Z - Sync Request: {"clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","email":"stiphen113@gmail.com","firstName":"stiphen","lastName":null}
+2026-01-17T12:19:51.460Z - Sync Request: {"clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","email":"stiphen113@gmail.com","firstName":"stiphen","lastName":null}
+2026-01-17T12:19:51.706Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-17T12:19:51.707Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-17T12:19:51.737Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-17T12:19:51.738Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-17T12:20:49.407Z - Sync Request: {"clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","email":"stiphen113@gmail.com","firstName":"stiphen","lastName":null}
+2026-01-17T12:20:49.408Z - Sync Request: {"clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","email":"stiphen113@gmail.com","firstName":"stiphen","lastName":null}
+2026-01-17T12:20:50.012Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-17T12:20:50.013Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-17T12:20:50.015Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-17T12:20:50.015Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-17T12:22:09.519Z - Sync Request: {"clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","email":"stiphen113@gmail.com","firstName":"stiphen","lastName":null}
+2026-01-17T12:22:09.523Z - Sync Request: {"clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","email":"stiphen113@gmail.com","firstName":"stiphen","lastName":null}
+2026-01-17T12:22:09.804Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-17T12:22:09.804Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-17T12:22:09.828Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-17T12:22:09.828Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-17T12:25:06.040Z - Sync Request: {"clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","email":"stiphen113@gmail.com","firstName":"stiphen","lastName":null}
+2026-01-17T12:25:06.046Z - Sync Request: {"clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","email":"stiphen113@gmail.com","firstName":"stiphen","lastName":null}
+2026-01-17T12:25:06.486Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-17T12:25:06.486Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-17T12:25:06.489Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-17T12:25:06.489Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-17T12:25:30.434Z - Sync Request: {"clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","email":"stiphen113@gmail.com","firstName":"stiphen","lastName":null}
+2026-01-17T12:25:30.437Z - Sync Request: {"clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","email":"stiphen113@gmail.com","firstName":"stiphen","lastName":null}
+2026-01-17T12:25:30.781Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-17T12:25:30.782Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-17T12:25:30.784Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-17T12:25:30.784Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-17T12:25:39.937Z - Sync Request: {"clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","email":"stiphen113@gmail.com","firstName":"stiphen","lastName":null}
+2026-01-17T12:25:39.938Z - Sync Request: {"clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","email":"stiphen113@gmail.com","firstName":"stiphen","lastName":null}
+2026-01-17T12:25:40.382Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-17T12:25:40.383Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-17T12:25:40.384Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-17T12:25:40.385Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-17T12:26:12.200Z - Sync Request: {"clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","email":"stiphen113@gmail.com","firstName":"stiphen","lastName":null}
+2026-01-17T12:26:12.201Z - Sync Request: {"clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","email":"stiphen113@gmail.com","firstName":"stiphen","lastName":null}
+2026-01-17T12:26:12.733Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-17T12:26:12.733Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-17T12:26:12.734Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-17T12:26:12.735Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-17T12:26:15.506Z - Sync Request: {"clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","email":"stiphen113@gmail.com","firstName":"stiphen","lastName":null}
+2026-01-17T12:26:15.507Z - Sync Request: {"clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","email":"stiphen113@gmail.com","firstName":"stiphen","lastName":null}
+2026-01-17T12:26:16.012Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-17T12:26:16.013Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-17T12:26:16.014Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-17T12:26:16.015Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-17T16:57:47.222Z - Sync Request for clerkId: user_38ORargdViEGOVDbZprIFXBvq0F, email: dogomi9373@dretnar.com
+2026-01-17T16:57:47.461Z - Found user: null
+2026-01-17T16:57:47.461Z - Creating new user...
+2026-01-17T16:57:47.697Z - Invitation found: none
+2026-01-17T16:57:47.698Z - Determined role: pending
+2026-01-17T16:57:47.989Z - User saved: 696bbf8bfb7a78307458f804
+2026-01-17T16:57:47.990Z - Returning user: {"email":"dogomi9373@dretnar.com","clerkId":"user_38ORargdViEGOVDbZprIFXBvq0F","role":"pending","firstName":"dee","lastName":"","_id":"696bbf8bfb7a78307458f804","createdAt":"2026-01-17T16:57:47.706Z","updatedAt":"2026-01-17T16:57:47.706Z","__v":0}
+2026-01-17T16:58:01.553Z - Sync Request for clerkId: user_38ORargdViEGOVDbZprIFXBvq0F, email: dogomi9373@dretnar.com
+2026-01-17T16:58:01.555Z - Sync Request for clerkId: user_38ORargdViEGOVDbZprIFXBvq0F, email: dogomi9373@dretnar.com
+2026-01-17T16:58:01.795Z - Found user: 696bbf8bfb7a78307458f804
+2026-01-17T16:58:01.800Z - Found user: 696bbf8bfb7a78307458f804
+2026-01-17T16:58:02.043Z - Returning user: {"_id":"696bbf8bfb7a78307458f804","email":"dogomi9373@dretnar.com","clerkId":"user_38ORargdViEGOVDbZprIFXBvq0F","role":"instructor","firstName":"dee","lastName":"","createdAt":"2026-01-17T16:57:47.706Z","updatedAt":"2026-01-17T16:58:00.899Z","__v":0}
+2026-01-17T16:58:02.047Z - Returning user: {"_id":"696bbf8bfb7a78307458f804","email":"dogomi9373@dretnar.com","clerkId":"user_38ORargdViEGOVDbZprIFXBvq0F","role":"instructor","firstName":"dee","lastName":"","createdAt":"2026-01-17T16:57:47.706Z","updatedAt":"2026-01-17T16:58:00.899Z","__v":0}
+2026-01-17T17:00:31.616Z - Sync Request for clerkId: user_38ORargdViEGOVDbZprIFXBvq0F, email: dogomi9373@dretnar.com
+2026-01-17T17:00:31.617Z - Sync Request for clerkId: user_38ORargdViEGOVDbZprIFXBvq0F, email: dogomi9373@dretnar.com
+2026-01-17T17:00:31.843Z - Found user: 696bbf8bfb7a78307458f804
+2026-01-17T17:00:32.256Z - Returning user: {"_id":"696bbf8bfb7a78307458f804","email":"dogomi9373@dretnar.com","clerkId":"user_38ORargdViEGOVDbZprIFXBvq0F","role":"instructor","firstName":"dee","lastName":"","createdAt":"2026-01-17T16:57:47.706Z","updatedAt":"2026-01-17T16:58:00.899Z","__v":0}
+2026-01-17T17:00:32.413Z - Found user: 696bbf8bfb7a78307458f804
+2026-01-17T17:00:32.675Z - Returning user: {"_id":"696bbf8bfb7a78307458f804","email":"dogomi9373@dretnar.com","clerkId":"user_38ORargdViEGOVDbZprIFXBvq0F","role":"instructor","firstName":"dee","lastName":"","createdAt":"2026-01-17T16:57:47.706Z","updatedAt":"2026-01-17T16:58:00.899Z","__v":0}
+2026-01-17T17:02:19.587Z - Sync Request for clerkId: user_38OStV73rXp8dIBtyRwmDvd5bid, email: malaji4941@daikoa.com
+2026-01-17T17:02:19.821Z - Found user: null
+2026-01-17T17:02:19.821Z - Creating new user...
+2026-01-17T17:02:20.062Z - Invitation found: none
+2026-01-17T17:02:20.062Z - Determined role: pending
+2026-01-17T17:02:20.319Z - User saved: 696bc09cfb7a78307458f856
+2026-01-17T17:02:20.319Z - Returning user: {"email":"malaji4941@daikoa.com","clerkId":"user_38OStV73rXp8dIBtyRwmDvd5bid","role":"pending","firstName":"robin","lastName":"","_id":"696bc09cfb7a78307458f856","createdAt":"2026-01-17T17:02:20.066Z","updatedAt":"2026-01-17T17:02:20.066Z","__v":0}
+2026-01-17T17:02:23.837Z - Sync Request for clerkId: user_38OStV73rXp8dIBtyRwmDvd5bid, email: malaji4941@daikoa.com
+2026-01-17T17:02:23.838Z - Sync Request for clerkId: user_38OStV73rXp8dIBtyRwmDvd5bid, email: malaji4941@daikoa.com
+2026-01-17T17:02:24.119Z - Found user: 696bc09cfb7a78307458f856
+2026-01-17T17:02:24.122Z - Found user: 696bc09cfb7a78307458f856
+2026-01-17T17:02:24.371Z - Returning user: {"_id":"696bc09cfb7a78307458f856","email":"malaji4941@daikoa.com","clerkId":"user_38OStV73rXp8dIBtyRwmDvd5bid","role":"instructor","firstName":"robin","lastName":"","createdAt":"2026-01-17T17:02:20.066Z","updatedAt":"2026-01-17T17:02:23.361Z","__v":0}
+2026-01-17T17:02:24.375Z - Returning user: {"_id":"696bc09cfb7a78307458f856","email":"malaji4941@daikoa.com","clerkId":"user_38OStV73rXp8dIBtyRwmDvd5bid","role":"instructor","firstName":"robin","lastName":"","createdAt":"2026-01-17T17:02:20.066Z","updatedAt":"2026-01-17T17:02:23.361Z","__v":0}
+2026-01-17T18:55:45.319Z - Sync Request for clerkId: user_38OStV73rXp8dIBtyRwmDvd5bid, email: malaji4941@daikoa.com
+2026-01-17T18:55:45.363Z - Sync Request for clerkId: user_38OStV73rXp8dIBtyRwmDvd5bid, email: malaji4941@daikoa.com
+2026-01-17T18:55:45.968Z - Found user: 696bc09cfb7a78307458f856
+2026-01-17T18:55:46.220Z - Returning user: {"_id":"696bc09cfb7a78307458f856","email":"malaji4941@daikoa.com","clerkId":"user_38OStV73rXp8dIBtyRwmDvd5bid","role":"instructor","firstName":"robin","lastName":"","createdAt":"2026-01-17T17:02:20.066Z","updatedAt":"2026-01-17T17:02:23.361Z","__v":0}
+2026-01-17T18:55:46.399Z - Found user: 696bc09cfb7a78307458f856
+2026-01-17T18:55:46.647Z - Returning user: {"_id":"696bc09cfb7a78307458f856","email":"malaji4941@daikoa.com","clerkId":"user_38OStV73rXp8dIBtyRwmDvd5bid","role":"instructor","firstName":"robin","lastName":"","createdAt":"2026-01-17T17:02:20.066Z","updatedAt":"2026-01-17T17:02:23.361Z","__v":0}
+2026-01-17T19:09:40.081Z - Sync Request for clerkId: user_38OiNUIuef6NWihr31m8jaTuwjP, email: rocisoc586@daikoa.com
+2026-01-17T19:09:40.371Z - Found user: null
+2026-01-17T19:09:40.378Z - Creating new user...
+2026-01-17T19:09:40.649Z - Invitation found: none
+2026-01-17T19:09:40.650Z - Determined role: pending
+2026-01-17T19:09:41.018Z - User saved: 696bde74af12d795ec732317
+2026-01-17T19:09:41.019Z - Returning user: {"email":"rocisoc586@daikoa.com","clerkId":"user_38OiNUIuef6NWihr31m8jaTuwjP","role":"pending","firstName":"majal","lastName":"","_id":"696bde74af12d795ec732317","createdAt":"2026-01-17T19:09:40.661Z","updatedAt":"2026-01-17T19:09:40.661Z","__v":0}
+2026-01-17T19:13:05.270Z - Sync Request for clerkId: user_38OiNUIuef6NWihr31m8jaTuwjP, email: rocisoc586@daikoa.com, requestedRole: null
+2026-01-17T19:13:05.277Z - Sync Request for clerkId: user_38OiNUIuef6NWihr31m8jaTuwjP, email: rocisoc586@daikoa.com, requestedRole: null
+2026-01-17T19:13:05.594Z - Found user: 696bde74af12d795ec732317
+2026-01-17T19:13:05.604Z - Found user: 696bde74af12d795ec732317
+2026-01-17T19:13:05.956Z - Returning user: {"_id":"696bde74af12d795ec732317","email":"rocisoc586@daikoa.com","clerkId":"user_38OiNUIuef6NWihr31m8jaTuwjP","role":"pending","firstName":"majal","lastName":"","createdAt":"2026-01-17T19:09:40.661Z","updatedAt":"2026-01-17T19:09:40.661Z","__v":0}
+2026-01-17T19:13:05.973Z - Returning user: {"_id":"696bde74af12d795ec732317","email":"rocisoc586@daikoa.com","clerkId":"user_38OiNUIuef6NWihr31m8jaTuwjP","role":"pending","firstName":"majal","lastName":"","createdAt":"2026-01-17T19:09:40.661Z","updatedAt":"2026-01-17T19:09:40.661Z","__v":0}
+2026-01-17T19:13:13.319Z - Sync Request for clerkId: user_38OiNUIuef6NWihr31m8jaTuwjP, email: rocisoc586@daikoa.com, requestedRole: null
+2026-01-17T19:13:13.321Z - Sync Request for clerkId: user_38OiNUIuef6NWihr31m8jaTuwjP, email: rocisoc586@daikoa.com, requestedRole: null
+2026-01-17T19:13:13.579Z - Found user: 696bde74af12d795ec732317
+2026-01-17T19:13:13.589Z - Found user: 696bde74af12d795ec732317
+2026-01-17T19:13:13.842Z - Returning user: {"_id":"696bde74af12d795ec732317","email":"rocisoc586@daikoa.com","clerkId":"user_38OiNUIuef6NWihr31m8jaTuwjP","role":"instructor","firstName":"majal","lastName":"","createdAt":"2026-01-17T19:09:40.661Z","updatedAt":"2026-01-17T19:13:12.834Z","__v":0}
+2026-01-17T19:13:13.857Z - Returning user: {"_id":"696bde74af12d795ec732317","email":"rocisoc586@daikoa.com","clerkId":"user_38OiNUIuef6NWihr31m8jaTuwjP","role":"instructor","firstName":"majal","lastName":"","createdAt":"2026-01-17T19:09:40.661Z","updatedAt":"2026-01-17T19:13:12.834Z","__v":0}
+2026-01-17T19:15:54.429Z - Sync Request for clerkId: user_38Oj8ZGimRfLQVzu2q4rUNb7G1V, email: rewevob325@dretnar.com, requestedRole: null
+2026-01-17T19:15:56.605Z - Found user: null
+2026-01-17T19:15:56.605Z - Creating new user...
+2026-01-17T19:15:56.874Z - Invitation found: none
+2026-01-17T19:15:56.875Z - Determined role: pending
+2026-01-17T19:15:57.167Z - User saved: 696bdfec50dae4e117c129e2
+2026-01-17T19:15:57.168Z - Returning user: {"email":"rewevob325@dretnar.com","clerkId":"user_38Oj8ZGimRfLQVzu2q4rUNb7G1V","role":"pending","firstName":"rewe","lastName":"","_id":"696bdfec50dae4e117c129e2","createdAt":"2026-01-17T19:15:56.878Z","updatedAt":"2026-01-17T19:15:56.878Z","__v":0}
+2026-01-17T19:16:45.036Z - Sync Request for clerkId: user_38Oj8ZGimRfLQVzu2q4rUNb7G1V, email: rewevob325@dretnar.com, requestedRole: null
+2026-01-17T19:16:45.042Z - Sync Request for clerkId: user_38Oj8ZGimRfLQVzu2q4rUNb7G1V, email: rewevob325@dretnar.com, requestedRole: null
+2026-01-17T19:16:45.495Z - Found user: 696bdfec50dae4e117c129e2
+2026-01-17T19:16:45.796Z - Returning user: {"_id":"696bdfec50dae4e117c129e2","email":"rewevob325@dretnar.com","clerkId":"user_38Oj8ZGimRfLQVzu2q4rUNb7G1V","role":"instructor","firstName":"rewe","lastName":"","createdAt":"2026-01-17T19:15:56.878Z","updatedAt":"2026-01-17T19:16:44.544Z","__v":0}
+2026-01-17T19:16:47.343Z - Found user: 696bdfec50dae4e117c129e2
+2026-01-17T19:16:47.646Z - Returning user: {"_id":"696bdfec50dae4e117c129e2","email":"rewevob325@dretnar.com","clerkId":"user_38Oj8ZGimRfLQVzu2q4rUNb7G1V","role":"instructor","firstName":"rewe","lastName":"","createdAt":"2026-01-17T19:15:56.878Z","updatedAt":"2026-01-17T19:16:44.544Z","__v":0}
+2026-01-17T19:32:15.537Z - Sync Request for clerkId: user_38M2ZZhTa6NOS2gjuWufBXzE4fG, email: iamdj1111@gmail.com, requestedRole: student
+2026-01-17T19:32:15.538Z - Sync Request for clerkId: user_38M2ZZhTa6NOS2gjuWufBXzE4fG, email: iamdj1111@gmail.com, requestedRole: student
+2026-01-17T19:32:15.784Z - Found user: 696b53744771f8d11a63a4c5
+2026-01-17T19:32:15.789Z - Found user: 696b53744771f8d11a63a4c5
+2026-01-17T19:32:16.032Z - Returning user: {"_id":"696b53744771f8d11a63a4c5","email":"iamdj1111@gmail.com","clerkId":"user_38M2ZZhTa6NOS2gjuWufBXzE4fG","role":"tenant_admin","firstName":"Stiphen","lastName":null,"createdAt":"2026-01-17T09:16:36.080Z","updatedAt":"2026-01-17T09:17:15.055Z","__v":0,"tenantId":"696b539a4771f8d11a63a4c8"}
+2026-01-17T19:32:16.036Z - Returning user: {"_id":"696b53744771f8d11a63a4c5","email":"iamdj1111@gmail.com","clerkId":"user_38M2ZZhTa6NOS2gjuWufBXzE4fG","role":"tenant_admin","firstName":"Stiphen","lastName":null,"createdAt":"2026-01-17T09:16:36.080Z","updatedAt":"2026-01-17T09:17:15.055Z","__v":0,"tenantId":"696b539a4771f8d11a63a4c8"}
+2026-01-17T19:38:18.325Z - Sync Request for clerkId: user_38OlrOQD1CxeWpmz3Pm3qHitmCu, email: rorajat132@noihse.com, requestedRole: student
+2026-01-17T19:38:18.638Z - Found user: null
+2026-01-17T19:38:18.639Z - Creating new user...
+2026-01-17T19:38:18.904Z - Invitation found: none
+2026-01-17T19:38:18.904Z - Determined role: student
+2026-01-17T19:38:19.181Z - User saved: 696be52ab5a366ec58af51a8
+2026-01-17T19:38:19.181Z - Returning user: {"email":"rorajat132@noihse.com","clerkId":"user_38OlrOQD1CxeWpmz3Pm3qHitmCu","role":"student","firstName":"hey","lastName":"","_id":"696be52ab5a366ec58af51a8","createdAt":"2026-01-17T19:38:18.911Z","updatedAt":"2026-01-17T19:38:18.911Z","__v":0}
+2026-01-17T19:38:42.547Z - Sync Request for clerkId: user_38OlrOQD1CxeWpmz3Pm3qHitmCu, email: rorajat132@noihse.com, requestedRole: null
+2026-01-17T19:38:42.805Z - Found user: 696be52ab5a366ec58af51a8
+2026-01-17T19:38:43.091Z - Returning user: {"_id":"696be52ab5a366ec58af51a8","email":"rorajat132@noihse.com","clerkId":"user_38OlrOQD1CxeWpmz3Pm3qHitmCu","role":"student","firstName":"hey","lastName":"","createdAt":"2026-01-17T19:38:18.911Z","updatedAt":"2026-01-17T19:38:18.911Z","__v":0}
+2026-01-17T19:39:59.414Z - Sync Request for clerkId: user_38OlrOQD1CxeWpmz3Pm3qHitmCu, email: rorajat132@noihse.com, requestedRole: null
+2026-01-17T19:39:59.664Z - Found user: 696be52ab5a366ec58af51a8
+2026-01-17T19:39:59.910Z - Returning user: {"_id":"696be52ab5a366ec58af51a8","email":"rorajat132@noihse.com","clerkId":"user_38OlrOQD1CxeWpmz3Pm3qHitmCu","role":"student","firstName":"hey","lastName":"","createdAt":"2026-01-17T19:38:18.911Z","updatedAt":"2026-01-17T19:38:18.911Z","__v":0}
+2026-01-17T19:40:15.248Z - Sync Request for clerkId: user_38OlrOQD1CxeWpmz3Pm3qHitmCu, email: rorajat132@noihse.com, requestedRole: null
+2026-01-17T19:40:15.572Z - Found user: 696be52ab5a366ec58af51a8
+2026-01-17T19:40:15.818Z - Returning user: {"_id":"696be52ab5a366ec58af51a8","email":"rorajat132@noihse.com","clerkId":"user_38OlrOQD1CxeWpmz3Pm3qHitmCu","role":"student","firstName":"hey","lastName":"","createdAt":"2026-01-17T19:38:18.911Z","updatedAt":"2026-01-17T19:38:18.911Z","__v":0}
+2026-01-17T19:40:47.644Z - Sync Request for clerkId: user_38OlrOQD1CxeWpmz3Pm3qHitmCu, email: rorajat132@noihse.com, requestedRole: null
+2026-01-17T19:40:48.034Z - Found user: 696be52ab5a366ec58af51a8
+2026-01-17T19:40:48.422Z - Returning user: {"_id":"696be52ab5a366ec58af51a8","email":"rorajat132@noihse.com","clerkId":"user_38OlrOQD1CxeWpmz3Pm3qHitmCu","role":"student","firstName":"hey","lastName":"","createdAt":"2026-01-17T19:38:18.911Z","updatedAt":"2026-01-17T19:38:18.911Z","__v":0}
+2026-01-17T19:40:54.653Z - Sync Request for clerkId: user_38OlrOQD1CxeWpmz3Pm3qHitmCu, email: rorajat132@noihse.com, requestedRole: student
+2026-01-17T19:40:54.655Z - Sync Request for clerkId: user_38OlrOQD1CxeWpmz3Pm3qHitmCu, email: rorajat132@noihse.com, requestedRole: student
+2026-01-17T19:40:54.927Z - Found user: 696be52ab5a366ec58af51a8
+2026-01-17T19:40:54.929Z - Found user: 696be52ab5a366ec58af51a8
+2026-01-17T19:40:55.202Z - Returning user: {"_id":"696be52ab5a366ec58af51a8","email":"rorajat132@noihse.com","clerkId":"user_38OlrOQD1CxeWpmz3Pm3qHitmCu","role":"student","firstName":"hey","lastName":"","createdAt":"2026-01-17T19:38:18.911Z","updatedAt":"2026-01-17T19:38:18.911Z","__v":0}
+2026-01-17T19:40:55.205Z - Returning user: {"_id":"696be52ab5a366ec58af51a8","email":"rorajat132@noihse.com","clerkId":"user_38OlrOQD1CxeWpmz3Pm3qHitmCu","role":"student","firstName":"hey","lastName":"","createdAt":"2026-01-17T19:38:18.911Z","updatedAt":"2026-01-17T19:38:18.911Z","__v":0}
+2026-01-17T19:40:59.018Z - Sync Request for clerkId: user_38OlrOQD1CxeWpmz3Pm3qHitmCu, email: rorajat132@noihse.com, requestedRole: student
+2026-01-17T19:40:59.427Z - Found user: 696be52ab5a366ec58af51a8
+2026-01-17T19:40:59.678Z - Returning user: {"_id":"696be52ab5a366ec58af51a8","email":"rorajat132@noihse.com","clerkId":"user_38OlrOQD1CxeWpmz3Pm3qHitmCu","role":"student","firstName":"hey","lastName":"","createdAt":"2026-01-17T19:38:18.911Z","updatedAt":"2026-01-17T19:38:18.911Z","__v":0}
+2026-01-17T19:49:56.328Z - Sync Request for clerkId: user_38OlrOQD1CxeWpmz3Pm3qHitmCu, email: rorajat132@noihse.com, requestedRole: student
+2026-01-17T19:49:56.609Z - Found user: 696be52ab5a366ec58af51a8
+2026-01-17T19:49:56.902Z - Returning user: {"_id":"696be52ab5a366ec58af51a8","email":"rorajat132@noihse.com","clerkId":"user_38OlrOQD1CxeWpmz3Pm3qHitmCu","role":"student","firstName":"hey","lastName":"","createdAt":"2026-01-17T19:38:18.911Z","updatedAt":"2026-01-17T19:38:18.911Z","__v":0}
+2026-01-17T20:12:49.889Z - Sync Request for clerkId: user_38OlrOQD1CxeWpmz3Pm3qHitmCu, email: rorajat132@noihse.com, requestedRole: student
+2026-01-17T20:12:49.892Z - Sync Request for clerkId: user_38OlrOQD1CxeWpmz3Pm3qHitmCu, email: rorajat132@noihse.com, requestedRole: null
+2026-01-17T20:12:50.129Z - Found user: 696be52ab5a366ec58af51a8
+2026-01-17T20:12:50.138Z - Found user: 696be52ab5a366ec58af51a8
+2026-01-17T20:12:50.366Z - Returning user: {"_id":"696be52ab5a366ec58af51a8","email":"rorajat132@noihse.com","clerkId":"user_38OlrOQD1CxeWpmz3Pm3qHitmCu","role":"student","firstName":"hey","lastName":"","createdAt":"2026-01-17T19:38:18.911Z","updatedAt":"2026-01-17T19:38:18.911Z","__v":0}
+2026-01-17T20:12:50.375Z - Returning user: {"_id":"696be52ab5a366ec58af51a8","email":"rorajat132@noihse.com","clerkId":"user_38OlrOQD1CxeWpmz3Pm3qHitmCu","role":"student","firstName":"hey","lastName":"","createdAt":"2026-01-17T19:38:18.911Z","updatedAt":"2026-01-17T19:38:18.911Z","__v":0}
+2026-01-18T11:24:11.513Z - Sync Request for clerkId: user_38OlrOQD1CxeWpmz3Pm3qHitmCu, email: rorajat132@noihse.com, requestedRole: null
+2026-01-18T11:24:11.515Z - Sync Request for clerkId: user_38OlrOQD1CxeWpmz3Pm3qHitmCu, email: rorajat132@noihse.com, requestedRole: null
+2026-01-18T11:24:11.797Z - Found user: 696be52ab5a366ec58af51a8
+2026-01-18T11:24:11.801Z - Found user: 696be52ab5a366ec58af51a8
+2026-01-18T11:24:12.053Z - Returning user: {"_id":"696be52ab5a366ec58af51a8","email":"rorajat132@noihse.com","clerkId":"user_38OlrOQD1CxeWpmz3Pm3qHitmCu","role":"student","firstName":"hey","lastName":"","createdAt":"2026-01-17T19:38:18.911Z","updatedAt":"2026-01-17T19:38:18.911Z","__v":0}
+2026-01-18T11:24:12.068Z - Returning user: {"_id":"696be52ab5a366ec58af51a8","email":"rorajat132@noihse.com","clerkId":"user_38OlrOQD1CxeWpmz3Pm3qHitmCu","role":"student","firstName":"hey","lastName":"","createdAt":"2026-01-17T19:38:18.911Z","updatedAt":"2026-01-17T19:38:18.911Z","__v":0}
+2026-01-18T11:26:55.546Z - Sync Request for clerkId: user_38QdE9VF6mbhlBKbOMSZCm4V2ae, email: mocoxi1226@noihse.com, requestedRole: student
+2026-01-18T11:26:55.811Z - Found user: null
+2026-01-18T11:26:55.812Z - Creating new user...
+2026-01-18T11:26:56.077Z - Invitation found: none
+2026-01-18T11:26:56.078Z - Determined role: student
+2026-01-18T11:26:56.382Z - User saved: 696cc380abf782533d1225eb
+2026-01-18T11:26:56.382Z - Returning user: {"email":"mocoxi1226@noihse.com","clerkId":"user_38QdE9VF6mbhlBKbOMSZCm4V2ae","role":"student","firstName":"djewihe","lastName":"","_id":"696cc380abf782533d1225eb","createdAt":"2026-01-18T11:26:56.088Z","updatedAt":"2026-01-18T11:26:56.088Z","__v":0}
+2026-01-18T13:11:17.110Z - Sync Request for clerkId: user_38QdE9VF6mbhlBKbOMSZCm4V2ae, email: mocoxi1226@noihse.com, requestedRole: null
+2026-01-18T13:11:17.112Z - Sync Request for clerkId: user_38QdE9VF6mbhlBKbOMSZCm4V2ae, email: mocoxi1226@noihse.com, requestedRole: null
+2026-01-18T13:11:17.455Z - Found user: 696cc380abf782533d1225eb
+2026-01-18T13:11:17.457Z - Found user: 696cc380abf782533d1225eb
+2026-01-18T13:11:17.866Z - Returning user: {"_id":"696cc380abf782533d1225eb","email":"mocoxi1226@noihse.com","clerkId":"user_38QdE9VF6mbhlBKbOMSZCm4V2ae","role":"student","firstName":"djewihe","lastName":"","createdAt":"2026-01-18T11:26:56.088Z","updatedAt":"2026-01-18T11:26:56.088Z","__v":0}
+2026-01-18T13:11:17.868Z - Returning user: {"_id":"696cc380abf782533d1225eb","email":"mocoxi1226@noihse.com","clerkId":"user_38QdE9VF6mbhlBKbOMSZCm4V2ae","role":"student","firstName":"djewihe","lastName":"","createdAt":"2026-01-18T11:26:56.088Z","updatedAt":"2026-01-18T11:26:56.088Z","__v":0}
+2026-01-18T13:16:52.884Z - Sync Request for clerkId: user_38QdE9VF6mbhlBKbOMSZCm4V2ae, email: mocoxi1226@noihse.com, requestedRole: null
+2026-01-18T13:16:52.886Z - Sync Request for clerkId: user_38QdE9VF6mbhlBKbOMSZCm4V2ae, email: mocoxi1226@noihse.com, requestedRole: null
+2026-01-18T13:16:53.328Z - Found user: 696cc380abf782533d1225eb
+2026-01-18T13:16:53.329Z - Found user: 696cc380abf782533d1225eb
+2026-01-18T13:16:53.739Z - Returning user: {"_id":"696cc380abf782533d1225eb","email":"mocoxi1226@noihse.com","clerkId":"user_38QdE9VF6mbhlBKbOMSZCm4V2ae","role":"student","firstName":"djewihe","lastName":"","createdAt":"2026-01-18T11:26:56.088Z","updatedAt":"2026-01-18T11:26:56.088Z","__v":0}
+2026-01-18T13:16:53.744Z - Returning user: {"_id":"696cc380abf782533d1225eb","email":"mocoxi1226@noihse.com","clerkId":"user_38QdE9VF6mbhlBKbOMSZCm4V2ae","role":"student","firstName":"djewihe","lastName":"","createdAt":"2026-01-18T11:26:56.088Z","updatedAt":"2026-01-18T11:26:56.088Z","__v":0}
+2026-01-18T13:16:58.139Z - Sync Request for clerkId: user_38QdE9VF6mbhlBKbOMSZCm4V2ae, email: mocoxi1226@noihse.com, requestedRole: null
+2026-01-18T13:16:58.139Z - Sync Request for clerkId: user_38QdE9VF6mbhlBKbOMSZCm4V2ae, email: mocoxi1226@noihse.com, requestedRole: null
+2026-01-18T13:16:58.489Z - Found user: 696cc380abf782533d1225eb
+2026-01-18T13:16:58.491Z - Found user: 696cc380abf782533d1225eb
+2026-01-18T13:16:59.288Z - Returning user: {"_id":"696cc380abf782533d1225eb","email":"mocoxi1226@noihse.com","clerkId":"user_38QdE9VF6mbhlBKbOMSZCm4V2ae","role":"student","firstName":"djewihe","lastName":"","createdAt":"2026-01-18T11:26:56.088Z","updatedAt":"2026-01-18T11:26:56.088Z","__v":0}
+2026-01-18T13:16:59.288Z - Returning user: {"_id":"696cc380abf782533d1225eb","email":"mocoxi1226@noihse.com","clerkId":"user_38QdE9VF6mbhlBKbOMSZCm4V2ae","role":"student","firstName":"djewihe","lastName":"","createdAt":"2026-01-18T11:26:56.088Z","updatedAt":"2026-01-18T11:26:56.088Z","__v":0}
+2026-01-18T13:17:03.654Z - Sync Request for clerkId: user_38QdE9VF6mbhlBKbOMSZCm4V2ae, email: mocoxi1226@noihse.com, requestedRole: null
+2026-01-18T13:17:03.655Z - Sync Request for clerkId: user_38QdE9VF6mbhlBKbOMSZCm4V2ae, email: mocoxi1226@noihse.com, requestedRole: null
+2026-01-18T13:17:04.086Z - Found user: 696cc380abf782533d1225eb
+2026-01-18T13:17:04.087Z - Found user: 696cc380abf782533d1225eb
+2026-01-18T13:17:04.593Z - Returning user: {"_id":"696cc380abf782533d1225eb","email":"mocoxi1226@noihse.com","clerkId":"user_38QdE9VF6mbhlBKbOMSZCm4V2ae","role":"student","firstName":"djewihe","lastName":"","createdAt":"2026-01-18T11:26:56.088Z","updatedAt":"2026-01-18T11:26:56.088Z","__v":0}
+2026-01-18T13:17:04.594Z - Returning user: {"_id":"696cc380abf782533d1225eb","email":"mocoxi1226@noihse.com","clerkId":"user_38QdE9VF6mbhlBKbOMSZCm4V2ae","role":"student","firstName":"djewihe","lastName":"","createdAt":"2026-01-18T11:26:56.088Z","updatedAt":"2026-01-18T11:26:56.088Z","__v":0}
+2026-01-18T13:44:17.825Z - Sync Request for clerkId: user_38M2ZZhTa6NOS2gjuWufBXzE4fG, email: iamdj1111@gmail.com, requestedRole: null
+2026-01-18T13:44:18.109Z - Found user: 696b53744771f8d11a63a4c5
+2026-01-18T13:44:18.596Z - Returning user: {"_id":"696b53744771f8d11a63a4c5","email":"iamdj1111@gmail.com","clerkId":"user_38M2ZZhTa6NOS2gjuWufBXzE4fG","role":"tenant_admin","firstName":"Stiphen","lastName":null,"createdAt":"2026-01-17T09:16:36.080Z","updatedAt":"2026-01-17T09:17:15.055Z","__v":0,"tenantId":"696b539a4771f8d11a63a4c8"}
+2026-01-18T13:44:47.826Z - Sync Request for clerkId: user_38M2ZZhTa6NOS2gjuWufBXzE4fG, email: iamdj1111@gmail.com, requestedRole: null
+2026-01-18T13:44:48.129Z - Found user: 696b53744771f8d11a63a4c5
+2026-01-18T13:44:48.430Z - Returning user: {"_id":"696b53744771f8d11a63a4c5","email":"iamdj1111@gmail.com","clerkId":"user_38M2ZZhTa6NOS2gjuWufBXzE4fG","role":"tenant_admin","firstName":"Stiphen","lastName":null,"createdAt":"2026-01-17T09:16:36.080Z","updatedAt":"2026-01-17T09:17:15.055Z","__v":0,"tenantId":"696b539a4771f8d11a63a4c8"}
+2026-01-18T13:45:01.142Z - Sync Request for clerkId: user_38M2ZZhTa6NOS2gjuWufBXzE4fG, email: iamdj1111@gmail.com, requestedRole: null
+2026-01-18T13:45:01.704Z - Found user: 696b53744771f8d11a63a4c5
+2026-01-18T13:45:02.162Z - Returning user: {"_id":"696b53744771f8d11a63a4c5","email":"iamdj1111@gmail.com","clerkId":"user_38M2ZZhTa6NOS2gjuWufBXzE4fG","role":"tenant_admin","firstName":"Stiphen","lastName":null,"createdAt":"2026-01-17T09:16:36.080Z","updatedAt":"2026-01-17T09:17:15.055Z","__v":0,"tenantId":"696b539a4771f8d11a63a4c8"}
+2026-01-18T13:46:24.703Z - Sync Request for clerkId: user_38M2TWaWzC9QC6chWYPDZfc97TZ, email: stiphen113@gmail.com, requestedRole: null
+2026-01-18T13:46:25.013Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-18T13:46:25.271Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-18T13:49:31.899Z - Sync Request for clerkId: user_38M2TWaWzC9QC6chWYPDZfc97TZ, email: stiphen113@gmail.com, requestedRole: null
+2026-01-18T13:49:31.906Z - Sync Request for clerkId: user_38M2TWaWzC9QC6chWYPDZfc97TZ, email: stiphen113@gmail.com, requestedRole: null
+2026-01-18T13:49:32.349Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-18T13:49:32.354Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-18T13:49:32.620Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-18T13:49:32.626Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-18T13:49:39.151Z - Sync Request for clerkId: user_38M2TWaWzC9QC6chWYPDZfc97TZ, email: stiphen113@gmail.com, requestedRole: null
+2026-01-18T13:49:39.152Z - Sync Request for clerkId: user_38M2TWaWzC9QC6chWYPDZfc97TZ, email: stiphen113@gmail.com, requestedRole: null
+2026-01-18T13:49:39.620Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-18T13:49:39.622Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-18T13:49:40.142Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-18T13:49:40.144Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-18T13:49:43.147Z - Sync Request for clerkId: user_38M2TWaWzC9QC6chWYPDZfc97TZ, email: stiphen113@gmail.com, requestedRole: null
+2026-01-18T13:49:43.149Z - Sync Request for clerkId: user_38M2TWaWzC9QC6chWYPDZfc97TZ, email: stiphen113@gmail.com, requestedRole: null
+2026-01-18T13:49:43.477Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-18T13:49:43.480Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-18T13:49:43.787Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-18T13:49:43.789Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-18T13:53:46.747Z - Sync Request for clerkId: user_38M2TWaWzC9QC6chWYPDZfc97TZ, email: stiphen113@gmail.com, requestedRole: null
+2026-01-18T13:53:46.749Z - Sync Request for clerkId: user_38M2TWaWzC9QC6chWYPDZfc97TZ, email: stiphen113@gmail.com, requestedRole: null
+2026-01-18T13:53:47.035Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-18T13:53:47.035Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-18T13:53:47.342Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-18T13:53:47.344Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-18T13:53:50.975Z - Sync Request for clerkId: user_38M2TWaWzC9QC6chWYPDZfc97TZ, email: stiphen113@gmail.com, requestedRole: null
+2026-01-18T13:53:50.976Z - Sync Request for clerkId: user_38M2TWaWzC9QC6chWYPDZfc97TZ, email: stiphen113@gmail.com, requestedRole: null
+2026-01-18T13:53:51.305Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-18T13:53:51.309Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-18T13:53:51.636Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-18T13:53:51.639Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-18T14:04:49.525Z - Sync Request for clerkId: user_38M2TWaWzC9QC6chWYPDZfc97TZ, email: stiphen113@gmail.com, requestedRole: null
+2026-01-18T14:04:49.533Z - Sync Request for clerkId: user_38M2TWaWzC9QC6chWYPDZfc97TZ, email: stiphen113@gmail.com, requestedRole: null
+2026-01-18T14:04:49.882Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-18T14:04:49.890Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-18T14:04:51.096Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-18T14:04:51.099Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-18T14:06:15.355Z - Sync Request for clerkId: user_38M2TWaWzC9QC6chWYPDZfc97TZ, email: stiphen113@gmail.com, requestedRole: null
+2026-01-18T14:06:15.356Z - Sync Request for clerkId: user_38M2TWaWzC9QC6chWYPDZfc97TZ, email: stiphen113@gmail.com, requestedRole: null
+2026-01-18T14:06:15.624Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-18T14:06:15.627Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-18T14:06:15.985Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-18T14:06:15.987Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-18T14:06:51.375Z - Sync Request for clerkId: user_38M2TWaWzC9QC6chWYPDZfc97TZ, email: stiphen113@gmail.com, requestedRole: null
+2026-01-18T14:06:51.377Z - Sync Request for clerkId: user_38M2TWaWzC9QC6chWYPDZfc97TZ, email: stiphen113@gmail.com, requestedRole: null
+2026-01-18T14:06:51.661Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-18T14:06:51.758Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-18T14:06:52.154Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-18T14:06:52.157Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-18T14:20:07.304Z - Sync Request for clerkId: user_38M2TWaWzC9QC6chWYPDZfc97TZ, email: stiphen113@gmail.com, requestedRole: null
+2026-01-18T14:20:07.307Z - Sync Request for clerkId: user_38M2TWaWzC9QC6chWYPDZfc97TZ, email: stiphen113@gmail.com, requestedRole: null
+2026-01-18T14:20:07.678Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-18T14:20:07.680Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-18T14:20:07.987Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-18T14:20:07.991Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-18T14:39:58.216Z - Sync Request for clerkId: user_38M2TWaWzC9QC6chWYPDZfc97TZ, email: stiphen113@gmail.com, requestedRole: null
+2026-01-18T14:39:58.444Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-18T14:39:58.569Z - Sync Request for clerkId: user_38M2TWaWzC9QC6chWYPDZfc97TZ, email: stiphen113@gmail.com, requestedRole: null
+2026-01-18T14:39:58.688Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-18T14:39:58.886Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-18T14:39:59.396Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-18T14:40:37.792Z - Sync Request for clerkId: user_38M2TWaWzC9QC6chWYPDZfc97TZ, email: stiphen113@gmail.com, requestedRole: null
+2026-01-18T14:40:37.797Z - Sync Request for clerkId: user_38M2TWaWzC9QC6chWYPDZfc97TZ, email: stiphen113@gmail.com, requestedRole: null
+2026-01-18T14:40:38.027Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-18T14:40:38.055Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-18T14:40:39.184Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-18T14:40:39.220Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-18T14:40:52.414Z - Sync Request for clerkId: user_38M2TWaWzC9QC6chWYPDZfc97TZ, email: stiphen113@gmail.com, requestedRole: null
+2026-01-18T14:40:52.415Z - Sync Request for clerkId: user_38M2TWaWzC9QC6chWYPDZfc97TZ, email: stiphen113@gmail.com, requestedRole: null
+2026-01-18T14:40:53.034Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-18T14:40:53.038Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-18T14:40:53.266Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-18T14:40:53.299Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-18T14:41:38.502Z - Sync Request for clerkId: user_38M2TWaWzC9QC6chWYPDZfc97TZ, email: stiphen113@gmail.com, requestedRole: null
+2026-01-18T14:41:38.504Z - Sync Request for clerkId: user_38M2TWaWzC9QC6chWYPDZfc97TZ, email: stiphen113@gmail.com, requestedRole: null
+2026-01-18T14:41:38.902Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-18T14:41:38.905Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-18T14:41:39.311Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-18T14:41:39.314Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
