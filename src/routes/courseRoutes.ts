@@ -10,6 +10,8 @@ import path from 'path';
 import fs from 'fs';
 import Enrollment from '../models/Enrollment';
 import { requireAuth } from '../middleware/auth';
+import { CloudinaryStorage } from 'multer-storage-cloudinary';
+import cloudinary from '../lib/cloudinary';
 
 // POST /api/courses/:id/enroll
 router.post('/:id/enroll', requireAuth, async (req, res) => {
@@ -126,26 +128,31 @@ router.get('/my-courses', async (req, res) => {
 
 
 // Configure Multer
-const storage = multer.diskStorage({
-  destination: (req: any, file: any, cb: any) => {
-    let uploadPath = 'uploads/videos';
+const storage = new CloudinaryStorage({
+  cloudinary: cloudinary,
+  params: async (req: any, file: any) => {
+    let folder = 'lms/misc';
+    let resource_type = 'auto';
+
     if (file.mimetype === 'application/pdf') {
-        uploadPath = 'uploads/pdfs';
+        folder = 'lms/pdfs';
+        // Cloudinary handles PDFs best as 'auto' or 'image' for previews, but 'raw' if we just want the file. 
+        // Using 'auto' allows Cloudinary to detect it.
+        resource_type = 'auto'; 
     } else if (file.mimetype.startsWith('image/')) {
-        uploadPath = 'uploads/images';
+        folder = 'lms/images';
+        resource_type = 'image';
+    } else if (file.mimetype.startsWith('video/')) {
+        folder = 'lms/videos';
+        resource_type = 'video';
     }
     
-    // Create directory if it doesn't exist
-    if (!fs.existsSync(uploadPath)){
-        fs.mkdirSync(uploadPath, { recursive: true });
-    }
-    cb(null, uploadPath);
+    return {
+      folder: folder,
+      resource_type: resource_type,
+      public_id: file.fieldname + '-' + Date.now()
+    };
   },
-  filename: (req: any, file: any, cb: any) => {
-    // Unique filename: fieldname-timestamp-random.ext
-    const uniqueSuffix = Date.now() + '-' + Math.round(Math.random() * 1E9);
-    cb(null, file.fieldname + '-' + uniqueSuffix + path.extname(file.originalname));
-  }
 });
 const upload = multer({ storage: storage });
 
@@ -200,7 +207,7 @@ router.put('/:id', upload.single('thumbnail'), async (req: express.Request, res:
 
         const multerReq = req as MulterRequest;
         if (multerReq.file) {
-            course.image = `/uploads/images/${multerReq.file.filename}`;
+            course.image = multerReq.file.path;
         }
 
         await course.save();
@@ -225,7 +232,7 @@ router.post('/', upload.single('thumbnail'), async (req: express.Request, res: e
     let imagePath = '';
     const multerReq = req as MulterRequest;
     if (multerReq.file) {
-        imagePath = `/uploads/images/${multerReq.file.filename}`;
+        imagePath = multerReq.file.path;
     }
 
     const newCourse = new Course({
@@ -305,8 +312,7 @@ router.post('/:id/sections/:sectionId/chapters', upload.single('file'), async (r
       let initialContent = content || '';
       const multerReq = req as MulterRequest;
       if (multerReq.file) {
-          const folder = multerReq.file.mimetype === 'application/pdf' ? 'pdfs' : 'videos';
-          initialContent = `/uploads/${folder}/${multerReq.file.filename}`;
+          initialContent = multerReq.file.path;
       }
 
       let questions: any[] = [];
@@ -370,9 +376,7 @@ router.put('/:id/sections/:sectionId/chapters/:chapterId', upload.single('file')
         // Handle Content update
         const multerReq = req as MulterRequest;
         if (multerReq.file) {
-            // Include folder in path
-            const folder = multerReq.file.mimetype === 'application/pdf' ? 'pdfs' : 'videos';
-            updateData.content = `/uploads/${folder}/${multerReq.file.filename}`;
+            updateData.content = multerReq.file.path;
         } else if (content !== undefined) {
              // If manual content (text / ext URL) provided
             updateData.content = content;

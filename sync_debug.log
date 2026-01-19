@@ -325,3 +325,15 @@
 2026-01-18T14:41:38.905Z - Found user: 696b54ea4771f8d11a63a4dc
 2026-01-18T14:41:39.311Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
 2026-01-18T14:41:39.314Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-19T20:11:43.104Z - Sync Request for clerkId: user_38M2ZZhTa6NOS2gjuWufBXzE4fG, email: iamdj1111@gmail.com, requestedRole: null
+2026-01-19T20:11:43.106Z - Sync Request for clerkId: user_38M2ZZhTa6NOS2gjuWufBXzE4fG, email: iamdj1111@gmail.com, requestedRole: null
+2026-01-19T20:11:43.338Z - Found user: 696b53744771f8d11a63a4c5
+2026-01-19T20:11:43.341Z - Found user: 696b53744771f8d11a63a4c5
+2026-01-19T20:11:43.586Z - Returning user: {"_id":"696b53744771f8d11a63a4c5","email":"iamdj1111@gmail.com","clerkId":"user_38M2ZZhTa6NOS2gjuWufBXzE4fG","role":"tenant_admin","firstName":"Stiphen","lastName":null,"createdAt":"2026-01-17T09:16:36.080Z","updatedAt":"2026-01-17T09:17:15.055Z","__v":0,"tenantId":"696b539a4771f8d11a63a4c8"}
+2026-01-19T20:11:43.589Z - Returning user: {"_id":"696b53744771f8d11a63a4c5","email":"iamdj1111@gmail.com","clerkId":"user_38M2ZZhTa6NOS2gjuWufBXzE4fG","role":"tenant_admin","firstName":"Stiphen","lastName":null,"createdAt":"2026-01-17T09:16:36.080Z","updatedAt":"2026-01-17T09:17:15.055Z","__v":0,"tenantId":"696b539a4771f8d11a63a4c8"}
+2026-01-19T20:12:01.807Z - Sync Request for clerkId: user_38M2TWaWzC9QC6chWYPDZfc97TZ, email: stiphen113@gmail.com, requestedRole: null
+2026-01-19T20:12:01.819Z - Sync Request for clerkId: user_38M2TWaWzC9QC6chWYPDZfc97TZ, email: stiphen113@gmail.com, requestedRole: null
+2026-01-19T20:12:02.063Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-19T20:12:02.064Z - Found user: 696b54ea4771f8d11a63a4dc
+2026-01-19T20:12:02.323Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
+2026-01-19T20:12:02.333Z - Returning user: {"_id":"696b54ea4771f8d11a63a4dc","email":"stiphen113@gmail.com","clerkId":"user_38M2TWaWzC9QC6chWYPDZfc97TZ","role":"instructor","firstName":"stiphen","lastName":null,"createdAt":"2026-01-17T09:22:50.101Z","updatedAt":"2026-01-17T09:22:57.309Z","__v":0}
