@@ -8,6 +8,8 @@ export interface ICourse extends Document {
   tenantId?: mongoose.Schema.Types.ObjectId;
   image?: string;
   isPublished: boolean;
+  averageRating: number;
+  ratingsCount: number;
   createdAt: Date;
   updatedAt: Date;
 }
@@ -19,7 +21,9 @@ const CourseSchema: Schema = new Schema({
   instructorId: { type: String, required: true },
   tenantId: { type: mongoose.Schema.Types.ObjectId, ref: 'Tenant' },
   image: { type: String },
-  isPublished: { type: Boolean, default: false }
+  isPublished: { type: Boolean, default: false },
+  averageRating: { type: Number, default: 0 },
+  ratingsCount: { type: Number, default: 0 }
 }, { timestamps: true });
 
 export default mongoose.model<ICourse>('Course', CourseSchema);

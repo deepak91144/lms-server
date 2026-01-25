@@ -1,5 +1,6 @@
 import express from 'express';
 import Course from '../models/Course';
+import Rating from '../models/Rating';
 
 const router = express.Router();
 import Section from '../models/Section';
@@ -689,6 +690,86 @@ router.get('/:id/chapters/:chapterId/quiz/attempt', requireAuth, async (req, res
     } catch (err) {
         console.error("Error fetching quiz attempt:", err);
         res.status(500).json({ error: 'Server error' });
+    }
+});
+
+
+// POST /api/courses/:id/rate
+// Rate a course
+router.post('/:id/rate', requireAuth, async (req, res) => {
+    try {
+        const courseId = req.params.id;
+        const userId = req.auth.userId;
+        const { rating, feedback } = req.body;
+
+        if (!rating || rating < 1 || rating > 5) {
+            res.status(400).json({ error: 'Invalid rating. Must be 1-5' });
+            return;
+        }
+
+        // Check enrollment
+        const enrollment = await Enrollment.findOne({ 
+            userId, 
+            courseId: new Types.ObjectId(courseId as string) as any 
+        });
+
+        if (!enrollment) {
+            res.status(403).json({ error: 'You must be enrolled to rate this course' });
+            return;
+        }
+
+        // Check/Update existing rating
+        let userRating = await Rating.findOne({ 
+            userId, 
+            courseId: new Types.ObjectId(courseId as string) as any 
+        });
+
+        if (userRating) {
+            userRating.rating = rating;
+            userRating.feedback = feedback;
+            await userRating.save();
+        } else {
+            userRating = new Rating({
+                userId,
+                courseId: new Types.ObjectId(courseId as string),
+                rating,
+                feedback
+            });
+            await userRating.save();
+        }
+
+        // Update Course aggregated stats
+        const allRatings = await Rating.find({ courseId: new Types.ObjectId(courseId as string) as any });
+        const avgRating = allRatings.reduce((acc, curr) => acc + curr.rating, 0) / allRatings.length;
+
+        await Course.findByIdAndUpdate(courseId, {
+            averageRating: Number(avgRating.toFixed(1)),
+            ratingsCount: allRatings.length
+        });
+
+        res.json(userRating);
+
+    } catch (error) {
+        console.error('Error submitting rating:', error);
+        res.status(500).json({ error: 'Internal server error' });
+    }
+});
+
+// GET /api/courses/:id/my-rating
+router.get('/:id/my-rating', requireAuth, async (req, res) => {
+    try {
+        const courseId = req.params.id;
+        const userId = req.auth.userId;
+
+        const rating = await Rating.findOne({ 
+            userId, 
+            courseId: new Types.ObjectId(courseId as string) as any 
+        });
+
+        res.json(rating || { rating: 0 }); 
+    } catch (error) {
+        console.error('Error fetching user rating:', error);
+        res.status(500).json({ error: 'Internal server error' });
     }
 });
 
